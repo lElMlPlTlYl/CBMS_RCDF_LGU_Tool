@@ -52,9 +52,11 @@ The CBMS RCDF LGU Tool is a self-contained desktop application built for Philipp
 
 ### Step 1 — Download
 
-Download the latest installer from the [Releases page](../../releases):
+> **Direct Download:** [CBMS-1.0.0-setup.exe](https://github.com/lElMlPlTlYl/CBMS_RCDF_LGU_Tool/releases/download/v1.0.0/CBMS-1.0.0-setup.exe) (~918 MB)
 
-- **`CBMS-1.0.0-setup.exe`** (~918 MB) — NSIS installer with desktop shortcut
+Or visit the [Releases page](https://github.com/lElMlPlTlYl/CBMS_RCDF_LGU_Tool/releases) and download `CBMS-1.0.0-setup.exe` from the Assets section at the bottom of the release.
+
+- **`CBMS-1.0.0-setup.exe`** (~918 MB) — Windows NSIS installer (64-bit)
 
 ### Step 2 — Run the Installer
 
