@@ -73,7 +73,7 @@ Download the latest installer from the [Releases page](../../releases):
 | Field | Value |
 |-------|-------|
 | Email | `superadmin@gmail.com` |
-| Password | `EthanEllyshaEliz3@!` |
+| Password | `superadmin` |
 
 > **IMPORTANT:** Change the default password immediately after first login via Profile → Update Password.
 
