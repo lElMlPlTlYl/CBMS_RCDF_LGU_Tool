@@ -1,0 +1,86 @@
+CBMS RCDF LGU Tool — Software License Agreement
+
+Copyright &copy; 2026 TINAGAR. All Rights Reserved.
+
+This Software License Agreement ("Agreement") is a legal agreement between you
+(the "Licensee", whether an individual or a Local Government Unit) and TINAGAR
+(the "Licensor") for the use of the CBMS RCDF LGU Tool software application
+(the "Software").
+
+By installing, copying, or otherwise using the Software, you agree to be bound
+by the terms of this Agreement. If you do not agree, do not install or use the
+Software.
+
+1. GRANT OF LICENSE
+   The Licensor grants the Licensee a non-exclusive, non-transferable,
+   machine-locked license to install and use the Software on a single computer
+   for the Licensee's internal operational purposes. The license is bound to a
+   specific computer via a cryptographic machine fingerprint and cannot be
+   transferred to another computer without obtaining a new license key from the
+   Licensor.
+
+2. LICENSE ACTIVATION
+   Upon installation, the Software generates a unique Machine Key tied to the
+   Licensee's computer hardware. The Licensee must provide this Machine Key to
+   the Licensor to receive a signed License Key. The License Key is
+   cryptographically signed using RSA-2048 and verified offline on every
+   launch. Licenses may be perpetual or time-limited (annual subscription) at
+   the Licensor's discretion.
+
+3. RESTRICTIONS
+   The Licensee shall NOT:
+   a. Copy, distribute, sublicense, rent, lease, or lend the Software to any
+      third party.
+   b. Reverse engineer, decompile, disassemble, or otherwise attempt to derive
+      the source code of the Software.
+   c. Modify, adapt, translate, or create derivative works based on the Software.
+   d. Remove, alter, or obscure any copyright, trademark, or proprietary rights
+      notices on or in the Software.
+   e. Bypass, circumvent, or attempt to circumvent the Software's licensing or
+      copy protection mechanisms.
+   f. Use the Software for any illegal purpose or in violation of any applicable
+      law.
+
+4. INTELLECTUAL PROPERTY
+   The Software and all intellectual property rights therein are and shall
+   remain the exclusive property of TINAGAR. This Agreement does not grant the
+   Licensee any rights to the Software other than the limited license set forth
+   herein.
+
+5. TRIAL PERIOD
+   The Software offers a 14-day free trial period. During the trial, the
+   Licensee may use all features of the Software for evaluation purposes. Upon
+   expiration of the trial period, the Licensee must activate a valid license
+   key to continue using the Software.
+
+6. DISCLAIMER OF WARRANTY
+   The Software is provided "AS IS" without warranty of any kind, express or
+   implied, including but not limited to warranties of merchantability, fitness
+   for a particular purpose, and non-infringement. The Licensor does not
+   warrant that the Software will be error-free or that its operation will be
+   uninterrupted.
+
+7. LIMITATION OF LIABILITY
+   In no event shall the Licensor be liable for any indirect, incidental,
+   special, or consequential damages arising out of or in connection with the
+   use or inability to use the Software, even if the Licensor has been advised
+   of the possibility of such damages.
+
+8. TERMINATION
+   This Agreement is effective until terminated. The Licensor may terminate this
+   Agreement immediately if the Licensee breaches any term herein. Upon
+   termination, the Licensee must cease all use of the Software and destroy all
+   copies in their possession.
+
+9. GOVERNING LAW
+   This Agreement shall be governed by the laws of the Republic of the
+   Philippines.
+
+10. CONTACT
+    For license activation, renewal, support, or questions regarding this
+    Agreement, contact the Licensor:
+    - Email: kyuubi.raganit.rtzverka2@gmail.com
+    - Phone: 0962 409 8673 / 0995 892 4433
+
+By using the Software, you acknowledge that you have read this Agreement,
+understand it, and agree to be bound by its terms.

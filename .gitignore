@@ -1,0 +1,11 @@
+*.exe
+*.7z
+*.zip
+*.blockmap
+node_modules/
+vendor/
+nativephp/
+runtime/
+.env
+storage/
+database/
